@@ -1,0 +1,8 @@
+/* This CSS is applied to the cart page if the slimmed cart setting is enabled in Wizard Panel */
+
+.subbanner,
+.partners,
+.footermain,
+.socialwidget {
+	display: none;
+}

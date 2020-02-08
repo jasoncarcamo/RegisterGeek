@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){WHMCS.http.jqClient.post("index.php?rp=/announcements/twitterfeed",{numtweets:2},function(t){jQuery("#twitterFeedOutput").html(t)})});

@@ -1,0 +1,8 @@
+/* This CSS is applied to the login page if the slimmed login setting is enabled in Wizard Panel */
+
+.headermain,
+.subbanner,
+.partners,
+.footermain {
+	display: none;
+}

@@ -1,0 +1,7 @@
+# Stellar
+
+name: "Stellar"
+description: "Premium and responsive WHMCS template."
+author: "Zomex"
+properties:
+  serverSidePagination: false # Defines client side will handle pagination

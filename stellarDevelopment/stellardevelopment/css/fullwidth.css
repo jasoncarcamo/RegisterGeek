@@ -1,0 +1,13 @@
+/*
+	This file is loaded on full width pages, it fixes the spacing implemented by Bootstrap
+*/
+
+.whmcscontainer .row {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.whmcscontainer .col-xs-12 {
+	padding-left: 0;
+	padding-right: 0;
+}
