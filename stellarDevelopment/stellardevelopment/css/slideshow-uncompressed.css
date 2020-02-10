@@ -242,6 +242,7 @@
 	clear: left;
 	font-size: 1em;
 	color: #fff;
+	text-shadow: 0.1em 0.1em 0.1em black;
 }
 
 .bxslider .list2 {
